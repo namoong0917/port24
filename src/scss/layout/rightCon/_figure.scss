@@ -1,0 +1,12 @@
+@use '../../abstracts' as *;
+
+.Figure_wrap {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	border-radius: 50%;
+	aspect-ratio: 1;
+  width: 100%; 
+	outline: 20px solid #0C1429;
+	background: #0C1429;
+}

@@ -1,0 +1,18 @@
+@use '../../abstracts' as *;
+
+
+
+.profile_wrap {
+	background: lawngreen;
+	// max-height: 700px;
+	// min-height: 600px;
+	height: 70vh;
+	border-radius: 170px 0 0 0;
+	margin-bottom: 26px;
+
+	h1 {
+		font-size: 1.4rem;
+		font-weight: 300;
+		position: absolute;
+	}
+}
