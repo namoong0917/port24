@@ -20,18 +20,22 @@ body, input, button, select, textarea, table {
 	font-size: 1.6rem;
 	color: #fff;
 }
-
-#main {
-	display: flex;
-	gap: 26px;
-
-	.left_content { width: 100%; }
-
-	.right_content {
-		position: relative;
-		width: 30%;
-		min-width: 300px;
-		max-width: 400px;
+#root {
+	height: 100%;
+	
+	#main {
+		height: 100%;
+		display: flex;
+		gap: 26px;
+	
+		.left_content { width: 100%; }
+	
+		.right_content {
+			position: relative;
+			// width: 40%;
+			min-width: 550px;
+			max-width: 550px;
+		}
 	}
 }
 
