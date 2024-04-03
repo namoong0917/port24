@@ -1,4 +1,3 @@
-// import React from "react";
 import projectsData from "../TabJSON/projects";
 
 const Project = () => {

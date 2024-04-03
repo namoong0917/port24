@@ -1,4 +1,3 @@
-// import React from 'react'
 import TabMenu from './../Tabs/TabMenu';
 
 const Profile = () => {

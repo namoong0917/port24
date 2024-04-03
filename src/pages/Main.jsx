@@ -1,4 +1,3 @@
-// import React from 'react'
 import RightContent from '../components/RightContent';
 import Contact from '../components/Right/Contact';
 import Figure from '../components/Right/Figure';
