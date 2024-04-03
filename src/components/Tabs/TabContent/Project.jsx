@@ -13,7 +13,7 @@ const Project = () => {
             <div className="txt_wrap">
               <h2>{project.title}</h2>
               <div className="tag_wrap">
-                {/* 태그 목록 생성 */}
+                {/* 태그 목록 */}
                 {project.tags.map((tag, idx) => (
                   <span key={idx} className="tag">
                     {tag}

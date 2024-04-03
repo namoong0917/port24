@@ -1,5 +1,7 @@
 import { useState } from "react";
 import Project from "./TabContent/Project";
+import Study from "./TabContent/Study";
+import Contact from "./TabContent/Contact";
 
 const TabMenu = () => {
   const [activeTab, setActiveTab] = useState(0);
@@ -21,9 +23,10 @@ const TabMenu = () => {
           <button onClick={() => handleTabClick(2)}>Contact</button>
         </li>
       </ul>
+
       {activeTab === 0 && <Project />}
-      {activeTab === 1 && <section>Tab 2 content</section>}
-      {activeTab === 2 && <section>Tab 3 content</section>}
+      {activeTab === 1 && <Study />}
+      {activeTab === 2 && <Contact />}
     </div>
   );
 };
