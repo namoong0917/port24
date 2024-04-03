@@ -27,8 +27,10 @@
     }
   }
   section {
-    height: 100%;
-    padding: 30px 30px 100px 30px;
+    height: 90%;
+    // max-height: 690px;
+    // padding: 30px 30px 100px 30px;
+    padding: 30px;
     // background: #0c1429;
     overflow-y: auto;
     box-sizing: border-box;

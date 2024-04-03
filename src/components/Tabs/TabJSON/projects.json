@@ -3,7 +3,7 @@
     "backgroundImage": "https://namoong0917.github.io/portfolio/images/ToDo.webp",
     "title": "랜덤 배경, 명언 TODO",
     "tags": ["반응형", "HTML5", "CSS3", "Vanilla JS"],
-    "description": "- 디자인, 퍼블리싱 : 100%",
+    "description": "- 디자인, 개발 : 100%",
     "period": "- 제작 기간 : 2일",
     "siteUrl": "https://vanilla-js.netlify.app",
     "githubUrl": "https://github.com/namoong0917/vanillajs-todo"
@@ -12,7 +12,7 @@
     "backgroundImage": "https://github.com/namoong0917/inthezoo/assets/103318401/27c66f6a-890b-47f5-9b60-1af4bc867d73",
     "title": "반려동물 자랑 사이트",
     "tags": ["반응형", "React", "typescript", "firebase"],
-    "description": "- 디자인, 퍼블리싱 : 100%",
+    "description": "- 디자인, 개발 : 100%",
     "period": "- 제작 기간 : 5일",
     "siteUrl": "https://inthezoo-f1fc8.web.app",
     "githubUrl": "https://github.com/namoong0917/inthezoo"
@@ -21,7 +21,7 @@
     "backgroundImage": "https://namoong0917.github.io/portfolio/images/glassBead.webp",
     "title": "GlassBead",
     "tags": ["반응형", "HTML5", "CSS3", "Three.js"],
-    "description": "- 디자인, 퍼블리싱 : 100%",
+    "description": "- 디자인, 개발 : 100%",
     "period": "- 제작 기간 : 1일",
     "siteUrl": "https://glassbead.netlify.app",
     "githubUrl": "https://github.com/namoong0917/GlassBead"
