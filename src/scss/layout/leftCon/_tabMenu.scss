@@ -1,0 +1,38 @@
+@use '../../abstracts' as *;
+
+
+.tab_content {
+	height: 60vh;
+	overflow: hidden;
+	.tabs {
+		margin-left: 120px;
+		display: flex;
+		margin-bottom: 50px;
+		
+		li + li {
+			margin-left: 20px;
+		}
+		
+		li {
+			&.active button {
+				color: red;
+			}
+			button {
+				background: none;
+				border: none;
+				
+				&:hover {
+					background: red;
+				}
+			}
+		}
+	}
+	section {
+		height: 100%;
+		padding: 30px 30px 100px 30px;
+		background: #0C1429;
+		overflow-y: auto;
+		box-sizing: border-box;
+	}
+	
+}

@@ -3,14 +3,18 @@
 
 
 .profile_wrap {
-	border: 1px solid red;
-	height: 70vh;
+	position: relative;
+	background: #AEB9CB;
 	border-radius: 170px 0 0 0;
 	margin-bottom: 26px;
+	padding: 30px;
+	overflow: hidden;
 
 	h1 {
 		font-size: 1.4rem;
 		font-weight: 300;
 		position: absolute;
+		left: 0;
+		top: 0;
 	}
 }
