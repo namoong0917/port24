@@ -1,20 +1,17 @@
-@use '../../abstracts' as *;
-
-
+@use "../../abstracts" as *;
 
 .profile_wrap {
-	position: relative;
-	background: #AEB9CB;
-	border-radius: 170px 0 0 0;
-	margin-bottom: 26px;
-	padding: 30px;
-	overflow: hidden;
+  position: relative;
+  background: #aeb9cb;
+  border-radius: 170px 0 0 0;
+  margin-bottom: 26px;
+  padding: 30px;
 
-	h1 {
-		font-size: 1.4rem;
-		font-weight: 300;
-		position: absolute;
-		left: 0;
-		top: 0;
-	}
+  h1 {
+    font-size: 1.4rem;
+    font-weight: 300;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
 }
